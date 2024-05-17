@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arminder Chahal</h1>
-<h3 align="center">A passionate data analyst</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arudhatt&label=Profile%20views&color=0e75b6&style=flat" alt="arudhatt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arudhatt" alt="arudhatt" /></a> </p>
 
-- 🔭 I’m currently working on **Tableau Visualization Project**
+- 🔭 I’m currently working on **Python Backend Project**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://arudhatt.github.io/portfolio/](https://arudhatt.github.io/portfolio/)
 
-- 💬 Ask me about **Python, Data analysis and SQL**
+- 💬 Ask me about **Python, Java and SQL**
 
 - 📫 How to reach me **arudhatt@gmail.com**
 
